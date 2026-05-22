@@ -22,8 +22,13 @@
   },
   "homepage": "https://github.com/Arun-01k/ToDo-List#readme",
   "devDependencies": {
+    "@eslint/js": "^10.0.1",
     "css-loader": "^7.1.4",
+    "eslint": "^10.4.0",
+    "eslint-config-prettier": "^10.1.8",
+    "globals": "^17.6.0",
     "html-webpack-plugin": "^5.6.7",
+    "prettier": "^3.8.3",
     "style-loader": "^4.0.0",
     "webpack": "^5.106.2",
     "webpack-cli": "^7.0.2",
